@@ -5,12 +5,10 @@ permalink: /biomechanical-data/
 ---
 
 ### BIOMECHANICAL TESTING
-Collection of Data: Force Required to Pierce through Porcine Skin Samples
-
-Development of a Testing Protocol and Associated Apparatus
+Collection of Data: Force Required to Pierce through Porcine Skin Samples - Development of a Testing Protocol and Associated Apparatus
 
 ![alt text](http://mishi-01.github.io/images/x.PNG)
-The various Instrons used throughout a year of trial-and-error mechanical testing
+*The various Instrons used throughout a year of trial-and-error mechanical testing*
 
 In an effort to collect data most representative of incising human tissue, porcine skin samples were used to mimic the human's epigastric region. However, simply laying a slab of greasy pig skin on top of an Instron is neither sanitary, nor effective due to its, well, ridiculous amount of grease. Applying a downward force via the Instron would simply cause the sample to jiggle across the stage, resulting in erroneous data. 
 
@@ -24,7 +22,7 @@ These "other iterations" were basically attempts at trying to model the human ep
 
 ![alt text](http://mishi-01.github.io/images/box1.jpg)
 
-Footage of this test-run is as follows: 
+*Footage of this test-run is as follows:*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yegIWJIRfrU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
