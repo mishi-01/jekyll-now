@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /intuos/
 ---
 
 Why even bother collecting biomechanical data if it can't be used? 
