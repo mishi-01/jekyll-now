@@ -46,3 +46,4 @@ This experiment revealed the well-known fact that load varies by blade angle, an
 ![alt text](http://mishi-01.github.io/images/fig3.PNG)
 
 
+
