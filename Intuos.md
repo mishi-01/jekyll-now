@@ -8,6 +8,7 @@ Why even bother collecting biomechanical data if it can't be used?
 The biomechanical data is meant to be brought into the VR world, and serve as realistic training guidelines for the user.
 But how can this real-world information be brought into virtual reality...?
 
+
 ### Intuos Tablet & Pen Calibration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cF2nr20TQXo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -19,7 +20,7 @@ As the device is actually designed for and marketed towards artists, the applied
 
 ![alt text](http://mishi-01.github.io/images/calibrating_pressure-03-krita-tool_revoy.jpg)
 
-(video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SuNRvNOCJtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Next was exploring the correlation between the tablets numerical readings, and the applied physical loads. The tablet was then strapped to the base of the Mark-10 instron, and the pen was clamped above it. The Mark-10 was programmed to apply compressive loads from 0.5N to 6N, in 0.5 intervals, and the numerical read-outs from the tablet were noted. 
 
@@ -39,6 +40,7 @@ In any case, the next hurdle was to find a way to provide visual feedback to the
 ![alt text](http://mishi-01.github.io/images/Picture1.png)
 
 Do you know the story of Golidlocks and the 3 bears? This feedback gauge predominately incorporates three colors; red, green, and blue. If the user applies too much force while making an incision, the gauge will fill up to the red area. If on the other hand not enough force is applied, the gauge will stay in the blue area. If the "just right" (credits go to baby bear) amount of force is applied, the gauge will reach the green area. The best part about this gauge is that it's dynamic; as the pressure changes while the user manipulates the pen, the gauge will respond at each moment without delay, until the user exits the program. 
+
 
 ### Drawing an Incision
 
