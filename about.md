@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ### BIOMECHANICAL TESTING
-Collection of Data: Force Required to Pierce through Porcine Skin Samples 
+Collection of Data: Force Required to Pierce through Porcine Skin Samples
+
 Development of a Testing Protocol and Associated Apparatus
 
 
