@@ -37,9 +37,11 @@ Throughout the many iterations of testing, the holder's design was also modified
 
 ![alt text](http://mishi-01.github.io/images/xxoo.PNG)
 
-Utilizing a 3D printed holder also allowed for the blade to be epoxyed at different angles, so that the force needed to incise tissue could be compared across scalpels at different angles; since that was a main issue according to the hahnemann study
+Utilizing a 3D printed holder also allowed for the blade to be epoxyed at different angles. This is important since it actually was found to be a major issue during residency training, and provided the motivation to begin this project in the first place.  so that the force needed to incise tissue could be compared across scalpels at different angles; since that was a main issue according to the hahnemann study
 
 ![alt text](http://mishi-01.github.io/images/epoxy.PNG)
+
+This experiment revealed the well-known fact that load varies by blade angle, and depth of penetration.
 
 ![alt text](http://mishi-01.github.io/images/fig3.PNG)
 
