@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EXPERIMENTS
-permalink: /biomechanicaldata/
+permalink: /biomechanical-data/
 ---
 
 ### BIOMECHANICAL TESTING
