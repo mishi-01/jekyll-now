@@ -5,11 +5,10 @@ permalink: /intuos/
 ---
 
 Why even bother collecting biomechanical data if it can't be used? 
-The data is meant 
-How to bring the force values that we collected from the skin tests that we slaved away on, into the VR world? What mechanism?
+The biomechanical data is meant to be brought into the VR world, and serve as realistic training guidelines for the user.
+But how can this real-world information be brought into virtual reality...?
 
-
-### Intuos Tablet & Pen 
+### Intuos Tablet & Pen Calibration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cF2nr20TQXo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -32,11 +31,16 @@ The tablet struggles to differentiate between applied loads greater than 3.5N. S
 
 Of course, there's also the fact that this test needs to be redone with more data points, a moving average, etc. Additionally, a 3D printed component needs to be designed to hold the pen at different angles; in the above described experiment, the pen was held completely perpendicularly to the tablet, whereas scalpels are held nearly parallel to the area of interest during an operation. Thus collecting perpendicular data may not be the most accurate choice. This new test is scheduled for the end of December 2017. 
 
-In any case, the next dsjfskjfh was to find a way to provide visual feedback to the user about the force they're applying. 
+
+### Goldilocks Gauge
+
+In any case, the next hurdle was to find a way to provide visual feedback to the user in regards to the force they're applying via the pen. We decided that mimicking a typical game health-bar would be the best understood by a wide audience, and affectionately titled it the "Goldilocks Gauge." 
 
 ![alt text](http://mishi-01.github.io/images/Picture1.png)
 
-Do you remember the story of Golidlocks and the 3 bears? This feedback gauge was inspired by baby bear's spirit. 
+Do you know the story of Golidlocks and the 3 bears? This feedback gauge predominately incorporates three colors; red, green, and blue. If the user applies too much force while making an incision, the gauge will fill up to the red area. If on the other hand not enough force is applied, the gauge will stay in the blue area. If the "just right" (credits go to baby bear) amount of force is applied, the gauge will reach the green area. The best part about this gauge is that it's dynamic; as the pressure changes while the user manipulates the pen, the gauge will respond at each moment without delay, until the user exits the program. 
+
+### Drawing an Incision
 
 
 
