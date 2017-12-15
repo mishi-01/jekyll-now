@@ -20,7 +20,13 @@ Of course, it wasn't all for-naught. Correlating our sample's initial dance move
 
 ![alt text](http://mishi-01.github.io/images/fig1.PNG)
 
-These "other iterations" were basically attempts at trying to model the human epigastric region as closely as possible. Take for example, the knowledge that our stomachs, in general (can't speak for everybody!!), are muscular, HOLLOW organs. (Special thanks to PubMed Health for this information !). So clearly, laying a slab of pork skin atop the Instron was not mimicking the stomach's hollow nature. We were advised to design and construct a box that would allow for the skin to be affixed to its ends, and 
+These "other iterations" were basically attempts at trying to model the human epigastric region as closely as possible. Take for example, the knowledge that our stomachs, in general (can't speak for everybody!!), are muscular, HOLLOW organs. (Special thanks to PubMed Health for this information !). So clearly, laying a slab of pork skin atop the Instron was not mimicking the stomach's hollow nature. We were advised to design and construct a box that would allow for the skin to be affixed to its ends, while also provided an area of empty space beneath it.  
+
+![alt text](http://mishi-01.github.io/images/box1.jpg)
+
+Footage of this test-run is as follows: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yegIWJIRfrU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 
 
 ![alt text](http://mishi-01.github.io/images/xx.PNG)
