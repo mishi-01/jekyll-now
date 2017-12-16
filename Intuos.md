@@ -39,6 +39,8 @@ In any case, the next hurdle was to find a way to provide visual feedback to the
 
 ![alt text](http://mishi-01.github.io/images/Picture1.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rk_Smd_T68Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 Do you know the story of Golidlocks and the 3 bears? This feedback gauge predominately incorporates three colors; red, green, and blue. If the user applies too much force while making an incision, the gauge will fill up to the red area. If on the other hand not enough force is applied, the gauge will stay in the blue area. If the "just right" (credits go to baby bear) amount of force is applied, the gauge will reach the green area. The best part about this gauge is that it's dynamic; as the pressure changes while the user manipulates the pen, the gauge will respond at each moment without delay, until the user exits the program. 
 
 
