@@ -4,6 +4,8 @@ title: VR ENVIRONMENT
 permalink: /VR-environment/
 ---
  
+![alt text](http://mishi-01.github.io/images/vrrr.gif)
+
 As with typical VR environments, users are encouraged to walk around and interact with their environment - and in this case, the user will be able to walk around a real operating room, without having to leave the comfort of their home. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJChCKdRWLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
