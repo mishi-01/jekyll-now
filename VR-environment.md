@@ -1,9 +1,10 @@
 ---
 layout: page
+![alt text](http://mishi-01.github.io/images/layoutttt.png) 
 title: VR ENVIRONMENT
 permalink: /VR-environment/
 ---
- 
+
 ![alt text](http://mishi-01.github.io/images/image10.gif)
 
 As with typical VR environments, users are encouraged to walk around and interact with their environment - and in this case, the user will be able to walk around a real operating room, without having to leave the comfort of their home. 
