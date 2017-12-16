@@ -43,6 +43,7 @@ Do you know the story of Golidlocks and the 3 bears? This feedback gauge predomi
 
 
 ### Next Steps:
+![alt text](http://mishi-01.github.io/images/incis.gif)
 - Details on drawing an incision (currently an incisin can be drawn, and prevents the user from haphazardly fooling around)
 
 
