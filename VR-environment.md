@@ -1,9 +1,10 @@
 ---
 layout: page
-![alt text](http://mishi-01.github.io/images/layoutttt.png) 
 title: VR ENVIRONMENT
 permalink: /VR-environment/
 ---
+![alt text](http://mishi-01.github.io/images/layoutttt.png) 
+-----
 
 ![alt text](http://mishi-01.github.io/images/image10.gif)
 
