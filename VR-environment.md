@@ -14,6 +14,13 @@ Of course, certain objects were and are going to be 3D modeled for the sake of e
 
 Something I am particularly proud of are the drapes I designed to cover the patient in the environment. (Details on how it was constructed to reveal patient shape using gravity model)
 
+![alt text](http://mishi-01.github.io/images/Thesis Models-6.jpg)
+![alt text](http://mishi-01.github.io/images/Thesis Models-7.jpg)
+![alt text](http://mishi-01.github.io/images/Thesis Models-8.jpg)
+
+---
+
+![alt text](http://mishi-01.github.io/images/Thesis Models-11.jpg)
 Another specific feature that I am particularly proud of, is the clock I modeled that can relay real time to those in the VR space. When one is wearing a VR headset, especially when engaged in a task, it can be a hassle to remove the gear and exit the VR space simply to check the time. Now, the user onyl has to look up at the clock in the environment, and they can find out without any issue. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt3-8nOJYQU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -22,5 +29,8 @@ Leap Motion technologies are also being utilized to track the user's hand moveme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njcYsiyMF2U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-**Next Step:**
+### Next Step:
+![alt text](http://mishi-01.github.io/images/Thesis Models-10.jpg)
+
 - Designing OR lights that can be moved by the user in the VR space to illuminate objects of interest.
+
