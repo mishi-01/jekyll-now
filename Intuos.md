@@ -4,6 +4,9 @@ title: Intuos Bridge
 permalink: /intuos/
 ---
 
+![alt text](http://mishi-01.github.io/images/layoutttt.png) 
+-----
+
 Why even bother collecting biomechanical data if it can't be used? 
 The biomechanical data is meant to be brought into the VR world, and serve as realistic training guidelines for the user.
 But how can this real-world information be brought into virtual reality...?
