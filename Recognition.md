@@ -11,17 +11,16 @@ TYPE HERE
 
 ### ASTM Project Grant Award
 
-Thank you to ASTM International for th
-  
+Thank you to ASTM International for this great honor! :) 
 
-![alt text](http://mishi-01.github.io/images/calibrating_pressure-03-krita-tool_revoy.jpg)
+  ![ASTM Winning Letter](https://user-images.githubusercontent.com/29470428/86483844-e8c53f00-bd22-11ea-891a-c2514ec2996c.jpg)
+
+TYPE
 
 
-Next was exploring the correlation between the tablets numerical readings, and the applied physical loads. The tablet was then strapped to the base of the Mark-10 instron, and the pen was clamped above it. The Mark-10 was programmed to apply compressive loads from 0.5N to 6N, in 0.5 intervals, and the numerical read-outs from the tablet were noted. 
+[pg1.pdf](https://github.com/mishi-01/test/files/4870465/pg1.pdf)
 
-Unfortunately, through collecting all this data, a rather distrubing discovery was made ...
 
-![alt text](http://mishi-01.github.io/images/data2.PNG)
 
 The tablet struggles to differentiate between applied loads greater than 3.5N. So unless the biomechanical data miraculously falls into this range, we're going to need to make some changes. 
 
