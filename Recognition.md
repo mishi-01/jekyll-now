@@ -9,18 +9,13 @@ permalink: /Recognition/
 
 TYPE HERE
 
-### Intuos Tablet & Pen Calibration
+### ASTM Project Grant Award
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cF2nr20TQXo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-Wacom's Intuos Tablet and Pen seemed to be a perfect tool to use for this project as it is lightweight, portable, 
-user-friendly and most importantly, the pen has pressure sensing capabilities. It was decided that the pen would represent a scalpel, and the tablet would serve as the area to be incised. With some javascripting, I was able to have the in-game scalpel be controlled by movement of the Wacom pen. 
-
-As the device is actually designed for and marketed towards artists, the applied pressure correlates with opacity; the more pressure the atist applies, the darker the color becomes on-screen. But how exactly does this happen - how does the tablet take it's pressure reading and relate it to a level of opacity? A bit of tinkering with Wacom's SDK revealed it to in fact be a numerical correlation, and these values I was able to display on screen as the pen hit the tablet at varying intensities, thanks to a few lines of C#.  
+Thank you to ASTM International for th
+  
 
 ![alt text](http://mishi-01.github.io/images/calibrating_pressure-03-krita-tool_revoy.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SuNRvNOCJtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Next was exploring the correlation between the tablets numerical readings, and the applied physical loads. The tablet was then strapped to the base of the Mark-10 instron, and the pen was clamped above it. The Mark-10 was programmed to apply compressive loads from 0.5N to 6N, in 0.5 intervals, and the numerical read-outs from the tablet were noted. 
 
