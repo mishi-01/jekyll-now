@@ -4,9 +4,6 @@ title: Recognition
 permalink: /Recognition/
 ---
 
------
-
-TYPE HERE
 
 ### ASTM Project Grant Award
 
